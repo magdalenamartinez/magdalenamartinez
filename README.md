@@ -13,15 +13,15 @@ Additionally, I have developed a full-stack web application as part of my academ
 ## Languages and Tools⭐
 
 <img align="left" alt="C" width="50px" style="padding-right:10px;" src="images/c.png" />
-<img align="left" alt="c++" width="50px" style="padding-right:10px;" src="images/c++.png" />
-<img align="left" alt="c#" width="50px" style="padding-right:10px;" src="images/csharp.png" />
+<img align="left" alt="c++" width="50px" style="padding-right:10px;" src="images/c++2.png" />
+<img align="left" alt="c#" width="50px" style="padding-right:10px;" src="images/csharp2.png" />
 <img align="left" alt="java" width="50px" style="padding-right:10px;" src="images/java.png" />
 <img align="left" alt="javascript" width="50px" style="padding-right:10px;" src="images/javascript.png" />
 <img align="left" alt="html" width="50px" style="padding-right:10px;" src="images/html.png" />
 <img align="left" alt="mysql" width="50px" style="padding-right:10px;" src="images/mysql.png" />
 <img align="left" alt="xampp" width="50px" style="padding-right:10px;" src="images/xampp.png" />
 <img align="left" alt="cisco" width="50px" style="padding-right:10px;" src="images/cisco.png" />
-<img align="left" alt="unity" width="50px" style="padding-right:10px;" src="images/unity.png" />
+<img align="left" alt="unity" width="50px" style="padding-right:10px;" src="images/unity2.png" />
 <img align="left" alt="linux" width="50px" style="padding-right:10px;" src="images/linux.png" />
 <img align="left" alt="apple" width="50px" style="padding-right:10px;" src="images/apple.png" />
 <img align="left" alt="fedora" width="50px" style="padding-right:10px;" src="images/fedora.png" />
